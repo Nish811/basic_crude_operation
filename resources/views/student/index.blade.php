@@ -56,7 +56,8 @@
             </tr>
             @endforeach
             @else
-            <p>data not found</p>
+
+
             @endif
         </tbody>
     </table>
